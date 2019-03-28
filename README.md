@@ -87,7 +87,7 @@ Content may include the following:
 
 ### Domain 4: Networking (15% of exam)
 Content may include the following:
-- [Create a Docker bridge network for a developer to use for their containers](Domain_4_Networking/Create_a_Docker_bridge_network_for_a_developer_to_use_for_their_containers.md)
+- [~~Create a Docker bridge network for a developer to use for their containers~~](Domain_4_Networking/Create_a_Docker_bridge_network_for_a_developer_to_use_for_their_containers.md)
 - [Troubleshoot container and engine logs to understand a connectivity issue between containers](Domain_4_Networking/Troubleshoot_container_and_engine_logs_to_understand_a_connectivity_issue_between_containers.md)
 - [Publish a port so that an application is accessible externally](Domain_4_Networking/Publish_a_port_so_that_an_application_is_accessible_externally.md)
 - [Identify which IP and port a container is externally accessible on](Domain_4_Networking/Identify_which_IP_and_port_a_container_is_externally_accessible_on.md)
