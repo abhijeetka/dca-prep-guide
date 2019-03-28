@@ -72,18 +72,18 @@ Content may include the following:
 
 ### Domain 3: Installation and Configuration (15% of exam)
 Content may include the following:
-- ~~[Demonstrate the ability to upgrade the Docker engine](Domain_3_Installation_and_Configuration/Demonstrate_the_ability_to_upgrade_the_Docker_engine.md)
-- ~~[Complete setup of repo select a storage driver and complete installation of Docker engine on multiple platforms](Domain_3_Installation_and_Configuration/Complete_setup_of_repo_select_a_storage_driver_and_complete_installation_of_Docker_engine_on_multiple_platforms.md)
-- ~~[Configure logging drivers](Domain_3_Installation_and_Configuration/Configure_logging_drivers.md)
-- ~~[Setup swarm, configure managers, add nodes, and setup backup schedule](Domain_3_Installation_and_Configuration/Setup_swarm_configure_managers_add_nodes_and_setup_backup_schedule.md)
+- [~~Demonstrate the ability to upgrade the Docker engine~~](Domain_3_Installation_and_Configuration/Demonstrate_the_ability_to_upgrade_the_Docker_engine.md)
+- [~~Complete setup of repo select a storage driver and complete installation of Docker engine on multiple platforms~~](Domain_3_Installation_and_Configuration/Complete_setup_of_repo_select_a_storage_driver_and_complete_installation_of_Docker_engine_on_multiple_platforms.md)
+- [~~Configure logging drivers~~](Domain_3_Installation_and_Configuration/Configure_logging_drivers.md)
+- [~~Setup swarm, configure managers, add nodes, and setup backup schedule~~](Domain_3_Installation_and_Configuration/Setup_swarm_configure_managers_add_nodes_and_setup_backup_schedule.md)
 - [Create and manager user and teams](Domain_3_Installation_and_Configuration/Create_and_manager_user_and_teams.md)
 - [Interpret errors to troubleshoot installation issues without assistance](Domain_3_Installation_and_Configuration/Interpret_errors_to_troubleshoot_installation_issues_without_assistance.md)
 - [Outline the sizing requirements prior to installation](Domain_3_Installation_and_Configuration/Outline_the_sizing_requirements_prior_to_installation.md)
-- ~~[Understand namespaces cgroups and configuration of certificates](Domain_3_Installation_and_Configuration/Understand_namespaces_cgroups_and_configuration_of_certificates.md)
+- [~~Understand namespaces cgroups and configuration of certificates~~](Domain_3_Installation_and_Configuration/Understand_namespaces_cgroups_and_configuration_of_certificates.md)
 - [Use certificate-based client-server authentication to ensure a Docker daemon has the rights to access images on a registry](Domain_3_Installation_and_Configuration/Use_certificate-based_client-server_authentication_to_ensure_a_Docker_daemon_has_the_rights_to_access_images_on_a_registry.md)
 - [Consistently repeat steps to deploy Docker engine UCP and DTR on AWS and on premises in an HA config](Domain_3_Installation_and_Configuration/Consistently_repeat_steps_to_deploy_Docker_engine_UCP_and_DTR_on_AWS_and_on_premises_in_an_HA_config.md)
 - [~~Complete configuration of backups for UCP and DTR~~](Domain_3_Installation_and_Configuration/Complete_configuration_of_backups_for_UCP_and_DTR.md)
-- ~~[Configure the Docker daemon to start on boot](Domain_3_Installation_and_Configuration/Configure_the_Docker_daemon_to_start_on_boot.md)
+- [~~Configure the Docker daemon to start on boot~~](Domain_3_Installation_and_Configuration/Configure_the_Docker_daemon_to_start_on_boot.md)
 
 ### Domain 4: Networking (15% of exam)
 Content may include the following:
