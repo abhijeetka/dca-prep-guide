@@ -82,7 +82,7 @@ Content may include the following:
 - ~~[Understand namespaces cgroups and configuration of certificates](Domain_3_Installation_and_Configuration/Understand_namespaces_cgroups_and_configuration_of_certificates.md)
 - [Use certificate-based client-server authentication to ensure a Docker daemon has the rights to access images on a registry](Domain_3_Installation_and_Configuration/Use_certificate-based_client-server_authentication_to_ensure_a_Docker_daemon_has_the_rights_to_access_images_on_a_registry.md)
 - [Consistently repeat steps to deploy Docker engine UCP and DTR on AWS and on premises in an HA config](Domain_3_Installation_and_Configuration/Consistently_repeat_steps_to_deploy_Docker_engine_UCP_and_DTR_on_AWS_and_on_premises_in_an_HA_config.md)
-- ~~[Complete configuration of backups for UCP and DTR](Domain_3_Installation_and_Configuration/Complete_configuration_of_backups_for_UCP_and_DTR.md)
+- [~~Complete configuration of backups for UCP and DTR~~](Domain_3_Installation_and_Configuration/Complete_configuration_of_backups_for_UCP_and_DTR.md)
 - ~~[Configure the Docker daemon to start on boot](Domain_3_Installation_and_Configuration/Configure_the_Docker_daemon_to_start_on_boot.md)
 
 ### Domain 4: Networking (15% of exam)
