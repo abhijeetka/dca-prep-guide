@@ -116,10 +116,10 @@ Content may include the following:
 
 ### Domain 6: Storage and Volumes (10% of exam)
 Content may include the following:
-- [State which graph driver should be used on which OS](Domain_6_Storage_and_Volumes/State_which_graph_driver_should_be_used_on_which_OS.md)
-- [Demonstrate how to configure devicemapper](Domain_6_Storage_and_Volumes/Demonstrate_how_to_configure_devicemapper.md)
-- [Compare object storage to block storage and explain which one is preferable when available](Domain_6_Storage_and_Volumes/Compare_object_storage_to_block_storage_and_explain_which_one_is_preferable_when_available.md)
-- [Summarize how an application is composed of layers and where those layers reside on the filesystem](Domain_6_Storage_and_Volumes/Summarize_how_an_application_is_composed_of_layers_and_where_those_layers_reside_on_the_filesystem.md)
-- [Describe how volumes are used with Docker for persistent storage](Domain_6_Storage_and_Volumes/Describe_how_volumes_are_used_with_Docker_for_persistent_storage.md)
-- [Identify the steps you would take to clean up unused images on a filesystem also on DTR](Domain_6_Storage_and_Volumes/Identify_the_steps_you_would_take_to_clean_up_unused_images_on_a_filesystem_also_on_DTR.md)
-- [Demonstrate how storage can be used across cluster nodes](Domain_6_Storage_and_Volumes/Demonstrate_how_storage_can_be_used_across_cluster_nodes.md)
+- [~~State which graph driver should be used on which OS~~](Domain_6_Storage_and_Volumes/State_which_graph_driver_should_be_used_on_which_OS.md)
+- [~~Demonstrate how to configure devicemapper~~](Domain_6_Storage_and_Volumes/Demonstrate_how_to_configure_devicemapper.md)
+- [~~Compare object storage to block storage and explain which one is preferable when available~~](Domain_6_Storage_and_Volumes/Compare_object_storage_to_block_storage_and_explain_which_one_is_preferable_when_available.md)
+- [~~Summarize how an application is composed of layers and where those layers reside on the filesystem~~](Domain_6_Storage_and_Volumes/Summarize_how_an_application_is_composed_of_layers_and_where_those_layers_reside_on_the_filesystem.md)
+- [~~Describe how volumes are used with Docker for persistent storage~~](Domain_6_Storage_and_Volumes/Describe_how_volumes_are_used_with_Docker_for_persistent_storage.md)
+- [~~Identify the steps you would take to clean up unused images on a filesystem also on DTR~~](Domain_6_Storage_and_Volumes/Identify_the_steps_you_would_take_to_clean_up_unused_images_on_a_filesystem_also_on_DTR.md)
+- [~~Demonstrate how storage can be used across cluster nodes~~](Domain_6_Storage_and_Volumes/Demonstrate_how_storage_can_be_used_across_cluster_nodes.md)
