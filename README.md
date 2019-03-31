@@ -29,9 +29,9 @@ Pull requests are very welcome!
 ## Content
 ### Domain 1: Orchestration (25% of exam)
 Content may include the following:
-- [Complete the setup of a swarm mode cluster with managers and worker nodes](Domain_1_Orchestration/Complete_the_setup_of_a_swarm_mode_cluster_with_managers_and_worker_nodes.md)
-- [State the differences between running a container vs running a service](Domain_1_Orchestration/State_the_differences_between_running_a_container_vs_running_a_service.md)
-- [Demonstrate steps to lock a swarm cluster](Domain_1_Orchestration/Demonstrate_steps_to_lock_a_swarm_cluster.md)
+- [~~Complete the setup of a swarm mode cluster with managers and worker nodes~~](Domain_1_Orchestration/Complete_the_setup_of_a_swarm_mode_cluster_with_managers_and_worker_nodes.md)
+- [~~State the differences between running a container vs running a service~~](Domain_1_Orchestration/State_the_differences_between_running_a_container_vs_running_a_service.md)
+- [~~Demonstrate steps to lock a swarm cluster~~](Domain_1_Orchestration/Demonstrate_steps_to_lock_a_swarm_cluster.md)
 - [Extend the instructions to run individual containers into running services under swarm](Domain_1_Orchestration/Extend_the_instructions_to_run_individual_containers_into_running_services_under_swarm.md)
 - [Interpret the output of docker inspect commands](Domain_1_Orchestration/Interpret_the_output_of_docker_inspect_commands.md)
 - [Convert an application deployment into a stack file using a YAML compose file with docker stack deploy](Domain_1_Orchestration/Convert_an_application_deployment_into_a_stack_file_using_a_YAML_compose_file_with_docker_stack_deploy.md)
